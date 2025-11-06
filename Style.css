@@ -1,0 +1,26 @@
+body {
+    background-color: lightblue;
+    font-family: Arial;
+    text-align: center;
+}
+
+h1 {
+    color: darkblue;
+}
+
+table {
+    margin: auto;
+    background-color: white;
+}
+
+th {
+    background-color: #0066cc;
+    color: white;
+}
+
+div {
+    margin: 20px;
+    padding: 10px;
+    background-color: white;
+    border-radius: 10px;
+}
